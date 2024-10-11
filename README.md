@@ -5,5 +5,7 @@
 
 # PERFORMACE PRODUCTION DASHBOARD
 [![Performance Production Dashboard](https://i.ibb.co/s3L8ckS/RGA76FC.png)](https://project.novypro.com/FpLrOD)
+## Principals Tools: 
 
-https://project.novypro.com/6enXaL
+# POKEMON GENEARATION DASHBOARD
+[![Pokemon Generation Dashboard](https://i.ibb.co/TvZzBLh/pk.png)](https://project.novypro.com/6enXaL)
